@@ -24,7 +24,7 @@ cat <<- EOF
 
 
   $gh_desc
-  https://github.com/PapirusDevelopmentTeam/$gh_repo
+  https://github.com/alamminsalo/$gh_repo
 
 
 EOF
@@ -45,7 +45,7 @@ _rm() {
 _download() {
     _msg "Getting the latest version from GitHub ..."
     wget -O "$temp_file" \
-        "https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/master.tar.gz"
+        "https://github.com/alamminsalo/$gh_repo/archive/master.tar.gz"
     _msg "Unpacking archive ..."
     tar -xzf "$temp_file" -C "$temp_dir"
 }

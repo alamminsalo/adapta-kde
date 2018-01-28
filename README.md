@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/adapta-kde/master/preview.png" alt="Preview Adapta KDE"/>
+  <img src="https://raw.githubusercontent.com/alamminsalo/adapta-kde/master/preview.png" alt="Preview Adapta KDE"/>
   <sup><sub>Screenshot Details: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Adapta Nokto | Aurorae decoration: Adapta | Plasma Theme: Adapta | Icons: <a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">Papirus-Adapta-Nokto</a> | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a></sub></sup>
 </p>
 
@@ -37,13 +37,13 @@ Use the script to install the latest version directly from this repo (independen
 #### Install
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/adapta-kde/master/install.sh | sh
+wget -qO- https://raw.githubusercontent.com/alamminsalo/adapta-kde/master/install.sh | sh
 ```
 
 #### Uninstall
 
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/adapta-kde/master/install.sh | uninstall=true sh
+wget -qO- https://raw.githubusercontent.com/alamminsalo/adapta-kde/master/install.sh | uninstall=true sh
 ```
 
 ### Unofficial packages
